@@ -4,4 +4,4 @@
 
 注意点；無言のまま30秒経過すると録音が停止してまうので、動作しているか確認する必要がある
 
-https://soramikumo.github.io/-/
+https://soramikumo.github.io/Meeting-Recording/
